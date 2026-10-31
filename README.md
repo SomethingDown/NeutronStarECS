@@ -7,5 +7,5 @@ Design and Optimization of an Archetype-Based Entity Processing System Accelerat
 # Content:
 
 - [__Cuda Research Documents__](docs/research/cuda/)
-- [__Parallel processing Research Documents__](docs\research\parallel-processing)
+- [__Parallel processing Research Documents__](docs\research\parallel%20processing)
 - [__R&D Documents__](docs/research/)
