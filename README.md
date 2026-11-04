@@ -5,7 +5,7 @@ Design and Optimization of an Archetype-Based Entity Processing System Accelerat
 - [__CONTRIBUTING.MD__](</CONTRIBUTING.md>)
 
 # Content:
-- [__GPU Documents__](<docs/research/GPU/)
+- [__GPU Documents__](<docs/research/GPU/>)
 - [__Cuda Research Documents__](<docs/research/cuda/>)
 - [__Parallel Processing Research Documents__](<docs/research/parallel processing>)
 - [__R&D Documents__](<docs/research/R&D>)
