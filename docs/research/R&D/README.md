@@ -1,10 +1,9 @@
 # This directory should branch to more specific directories for each research type or whatever (🏃I will not be working here hehehehe)
 
-# To Research:
-- Why ECS?
-- Why Archtypes over parse sets or any other data collection ?
-- Why GPU over CPU multicore?
-- Why CUDA over Any other API/LIB?
+# To Stydy:
+- Study the problem of efficiently processing a large count of entities.
+- Study available solutions to efficiently process a large count of entities.
+- Study the Entity component system architecture and hybrid solutions.
   
 # Content:
 here you should do hyper links to documents and stuff.
