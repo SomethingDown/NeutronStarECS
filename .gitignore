@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+
+docs/research/GPU/gpu_architecture.tex
+docs/research/GPU/GPU_STUDY_TODO.md
